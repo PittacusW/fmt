@@ -1,0 +1,27 @@
+{
+    "name": "contal/fmt",
+    "type": "application",
+    "description": "A script to automatically fix K&R and PSR-1/2 Coding Standard.",
+    "license": "BSD-3-Clause",
+    "keywords": ["language syntax", "formatter", "formatting", "psr1", "psr2", "coding", "style"],
+    "bin": ["fmt.phar","fmt.php","refactor.php"],
+    "authors": [
+        {
+            "name": "Carlos C",
+            "email": "carlos@cirello.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ClassPreloader\\": "src/"
+        }
+    },
+    "support": {
+        "issues": "https://github.com/contal/fmt/issues",
+        "source": "https://github.com/contal/fmt"
+    },
+    "require":{
+        "php": ">=5.6.0",
+        "ext-tokenizer": "*"
+    }
+}
