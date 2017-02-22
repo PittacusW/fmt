@@ -75,6 +75,7 @@ abstract class BaseCodeFormatter {
 		'EliminateDuplicatedEmptyLines' => false,
 		'IndentTernaryConditions' => false,
 		'ReindentComments' => false,
+		'RemoveComments' => false,
 		'ReindentEqual' => false,
 		'Reindent' => false,
 		'ReindentAndAlignObjOps' => false,

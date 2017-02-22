@@ -61,6 +61,7 @@ namespace {
     require 'Core/Reindent.php';
     require 'Core/ReindentColonBlocks.php';
     require 'Core/ReindentComments.php';
+    require 'Core/RemoveComments.php';
     require 'Core/ReindentEqual.php';
     require 'Core/ReindentObjOps.php';
     require 'Core/ResizeSpaces.php';
@@ -183,6 +184,10 @@ namespace {
 
     if (isset($opts['smart_linebreak_after_curly'])) {
         $fmt->enablePass('SmartLnAfterCurlyOpen');
+    }
+
+    if (isset($opts['remove_comments'])) {
+        $fmt->enablePass('RemoveComments');
     }
 
     if (isset($opts['yoda'])) {
