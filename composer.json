@@ -22,7 +22,6 @@
     },
     "require":{
         "php": ">=5.6.0",
-		"ccirello/csp":"3.*",
 		"symfony/console":"*",
         "ext-tokenizer": "*"
     }
