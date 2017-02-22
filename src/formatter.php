@@ -1,25 +1,9 @@
 <?php
 
-namespace Extern {
-    require 'vendor/symfony/console/Formatter/OutputFormatterInterface.php';
-    require 'vendor/symfony/console/Helper/HelperInterface.php';
-    require 'vendor/symfony/console/Helper/Helper.php';
-    require 'vendor/symfony/console/Formatter/OutputFormatterStyleStack.php';
-    require 'vendor/symfony/console/Formatter/OutputFormatterStyleInterface.php';
-    require 'vendor/symfony/console/Formatter/OutputFormatterStyle.php';
-    require 'vendor/symfony/console/Formatter/OutputFormatter.php';
-    require 'vendor/symfony/console/Output/OutputInterface.php';
-    require 'vendor/symfony/console/Output/ConsoleOutputInterface.php';
-    require 'vendor/symfony/console/Output/Output.php';
-    require 'vendor/symfony/console/Output/StreamOutput.php';
-    require 'vendor/symfony/console/Output/ConsoleOutput.php';
-    require 'vendor/symfony/console/Helper/ProgressBar.php';
-}
-
 namespace {
     $concurrent = function_exists('pcntl_fork');
     if ($concurrent) {
-        require 'vendor/dericofilho/csp/csp.php';
+        require 'csp.php';
     }
     require 'Core/Cacher.php';
     $enableCache = false;
