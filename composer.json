@@ -1,5 +1,5 @@
 {
-    "name": "contal/fmt",
+    "name": "phpfmt/fmt",
     "type": "application",
     "description": "A script to automatically fix K&R and PSR-1/2 Coding Standard.",
     "license": "BSD-3-Clause",
@@ -11,18 +11,18 @@
             "email": "carlos@cirello.eu"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "ClassPreloader\\": "src/"
-        }
-    },
     "support": {
-        "issues": "https://github.com/contal/fmt/issues",
-        "source": "https://github.com/contal/fmt"
+        "issues": "https://github.com/phpfmt/fmt/issues",
+        "source": "https://github.com/phpfmt/fmt"
     },
     "require":{
         "php": ">=5.6.0",
-		"symfony/console":"*",
         "ext-tokenizer": "*"
+    },
+    "require-dev": {
+        "phpunit/php-code-coverage": "2.0.*",
+        "ext-xdebug": "*",
+        "dericofilho/csp": "2.0.*",
+        "satooshi/php-coveralls": "dev-master"
     }
 }
