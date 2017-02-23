@@ -1,10 +1,5 @@
 <?php
 
-namespace Fmt;
-
-class Format {
-	
-	public static function formatter($opt,$file) {
 		$concurrent = function_exists('pcntl_fork');
 		if ($concurrent) {
 			require 'csp.php';
@@ -262,6 +257,3 @@ class Format {
 				echo $fmt->formatCode(file_get_contents('php://stdin'));
 			}
 		}
-	}
-
-}
