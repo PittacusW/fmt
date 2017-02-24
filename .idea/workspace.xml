@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88b722bb-be2f-4dc6-8970-cd77c4495588" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/include_paths.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddLicense.php" afterPath="$PROJECT_DIR$/AddLicense.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/AddMissingCurlyBraces.php" afterPath="$PROJECT_DIR$/Core/AddMissingCurlyBraces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AddMissingParentheses.php" afterPath="$PROJECT_DIR$/Additionals/AddMissingParentheses.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AdditionalPass.php" afterPath="$PROJECT_DIR$/Additionals/AdditionalPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AliasToMaster.php" afterPath="$PROJECT_DIR$/Additionals/AliasToMaster.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AlignConstVisibilityEquals.php" afterPath="$PROJECT_DIR$/Additionals/AlignConstVisibilityEquals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AlignDoubleArrow.php" afterPath="$PROJECT_DIR$/Additionals/AlignDoubleArrow.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AlignDoubleSlashComments.php" afterPath="$PROJECT_DIR$/Additionals/AlignDoubleSlashComments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AlignEquals.php" afterPath="$PROJECT_DIR$/Additionals/AlignEquals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AlignGroupDoubleArrow.php" afterPath="$PROJECT_DIR$/Additionals/AlignGroupDoubleArrow.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AlignPHPCode.php" afterPath="$PROJECT_DIR$/Additionals/AlignPHPCode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AlignTypehint.php" afterPath="$PROJECT_DIR$/Additionals/AlignTypehint.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AllmanStyleBraces.php" afterPath="$PROJECT_DIR$/Additionals/AllmanStyleBraces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/AutoImport.php" afterPath="$PROJECT_DIR$/Core/AutoImport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AutoPreincrement.php" afterPath="$PROJECT_DIR$/Additionals/AutoPreincrement.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/AutoSemicolon.php" afterPath="$PROJECT_DIR$/Additionals/AutoSemicolon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/BaseCodeFormatter.php" afterPath="$PROJECT_DIR$/Core/BaseCodeFormatter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/Cache.php" afterPath="$PROJECT_DIR$/Core/Cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/Cache_dummy.php" afterPath="$PROJECT_DIR$/Core/Cache_dummy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/Cacher.php" afterPath="$PROJECT_DIR$/Core/Cacher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/CakePHPStyle.php" afterPath="$PROJECT_DIR$/Additionals/CakePHPStyle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ClassToSelf.php" afterPath="$PROJECT_DIR$/Additionals/ClassToSelf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ClassToStatic.php" afterPath="$PROJECT_DIR$/Additionals/ClassToStatic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/CodeFormatter.php" afterPath="$PROJECT_DIR$/Core/CodeFormatter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/CodeFormatter_debug.php" afterPath="$PROJECT_DIR$/Core/CodeFormatter_debug.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/CodeFormatter_profile.php" afterPath="$PROJECT_DIR$/Core/CodeFormatter_profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/ConstructorPass.php" afterPath="$PROJECT_DIR$/Core/ConstructorPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ConvertOpenTagWithEcho.php" afterPath="$PROJECT_DIR$/Additionals/ConvertOpenTagWithEcho.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/DocBlockToComment.php" afterPath="$PROJECT_DIR$/Additionals/DocBlockToComment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/DoubleToSingleQuote.php" afterPath="$PROJECT_DIR$/Additionals/DoubleToSingleQuote.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/EchoToPrint.php" afterPath="$PROJECT_DIR$/Additionals/EchoToPrint.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/EliminateDuplicatedEmptyLines.php" afterPath="$PROJECT_DIR$/Core/EliminateDuplicatedEmptyLines.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/EncapsulateNamespaces.php" afterPath="$PROJECT_DIR$/Additionals/EncapsulateNamespaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/ExternalPass.php" afterPath="$PROJECT_DIR$/Core/ExternalPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/ExtraCommaInArray.php" afterPath="$PROJECT_DIR$/Core/ExtraCommaInArray.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/FormatterPass.php" afterPath="$PROJECT_DIR$/Core/FormatterPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/GeneratePHPDoc.php" afterPath="$PROJECT_DIR$/Additionals/GeneratePHPDoc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/IndentTernaryConditions.php" afterPath="$PROJECT_DIR$/Additionals/IndentTernaryConditions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/JoinToImplode.php" afterPath="$PROJECT_DIR$/Additionals/JoinToImplode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/LeftAlignComment.php" afterPath="$PROJECT_DIR$/Core/LeftAlignComment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/LeftWordWrap.php" afterPath="$PROJECT_DIR$/Additionals/LeftWordWrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/LongArray.php" afterPath="$PROJECT_DIR$/Additionals/LongArray.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/MergeCurlyCloseAndDoWhile.php" afterPath="$PROJECT_DIR$/Core/MergeCurlyCloseAndDoWhile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/MergeDoubleArrowAndArray.php" afterPath="$PROJECT_DIR$/Core/MergeDoubleArrowAndArray.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/MergeElseIf.php" afterPath="$PROJECT_DIR$/Additionals/MergeElseIf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/MergeNamespaceWithOpenTag.php" afterPath="$PROJECT_DIR$/Additionals/MergeNamespaceWithOpenTag.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/MergeParenCloseWithCurlyOpen.php" afterPath="$PROJECT_DIR$/Core/MergeParenCloseWithCurlyOpen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/MildAutoPreincrement.php" afterPath="$PROJECT_DIR$/Additionals/MildAutoPreincrement.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/NewLineBeforeReturn.php" afterPath="$PROJECT_DIR$/Additionals/NewLineBeforeReturn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/NoSpaceAfterPHPDocBlocks.php" afterPath="$PROJECT_DIR$/Additionals/NoSpaceAfterPHPDocBlocks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/NormalizeIsNotEquals.php" afterPath="$PROJECT_DIR$/Core/NormalizeIsNotEquals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/NormalizeLnAndLtrimLines.php" afterPath="$PROJECT_DIR$/Core/NormalizeLnAndLtrimLines.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/OnlyOrderUseClauses.php" afterPath="$PROJECT_DIR$/Additionals/OnlyOrderUseClauses.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/OrderAndRemoveUseClauses.php" afterPath="$PROJECT_DIR$/Additionals/OrderAndRemoveUseClauses.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/OrderMethod.php" afterPath="$PROJECT_DIR$/Additionals/OrderMethod.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/OrderMethodAndVisibility.php" afterPath="$PROJECT_DIR$/Additionals/OrderMethodAndVisibility.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/OrganizeClass.php" afterPath="$PROJECT_DIR$/Additionals/OrganizeClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/PHPDocTypesToFunctionTypehint.php" afterPath="$PROJECT_DIR$/Additionals/PHPDocTypesToFunctionTypehint.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR1BOMMark.php" afterPath="$PROJECT_DIR$/PSR/PSR1BOMMark.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR1ClassConstants.php" afterPath="$PROJECT_DIR$/PSR/PSR1ClassConstants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR1ClassNames.php" afterPath="$PROJECT_DIR$/PSR/PSR1ClassNames.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR1MethodNames.php" afterPath="$PROJECT_DIR$/PSR/PSR1MethodNames.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR1OpenTags.php" afterPath="$PROJECT_DIR$/PSR/PSR1OpenTags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR2AlignObjOp.php" afterPath="$PROJECT_DIR$/PSR/PSR2AlignObjOp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR2CurlyOpenNextLine.php" afterPath="$PROJECT_DIR$/PSR/PSR2CurlyOpenNextLine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/PSR2EmptyFunction.php" afterPath="$PROJECT_DIR$/Additionals/PSR2EmptyFunction.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR2IndentWithSpace.php" afterPath="$PROJECT_DIR$/PSR/PSR2IndentWithSpace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR2KeywordsLowerCase.php" afterPath="$PROJECT_DIR$/PSR/PSR2KeywordsLowerCase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR2LnAfterNamespace.php" afterPath="$PROJECT_DIR$/PSR/PSR2LnAfterNamespace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR2ModifierVisibilityStaticOrder.php" afterPath="$PROJECT_DIR$/PSR/PSR2ModifierVisibilityStaticOrder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/PSR2MultilineFunctionParams.php" afterPath="$PROJECT_DIR$/Additionals/PSR2MultilineFunctionParams.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PSR2SingleEmptyLineAndStripClosingTag.php" afterPath="$PROJECT_DIR$/PSR/PSR2SingleEmptyLineAndStripClosingTag.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/PrettyPrintDocBlocks.php" afterPath="$PROJECT_DIR$/Additionals/PrettyPrintDocBlocks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PSR/PsrDecorator.php" afterPath="$PROJECT_DIR$/PSR/PsrDecorator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/RTrim.php" afterPath="$PROJECT_DIR$/Core/RTrim.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/RefactorPass.php" afterPath="$PROJECT_DIR$/Core/RefactorPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/Reindent.php" afterPath="$PROJECT_DIR$/Core/Reindent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ReindentAndAlignObjOps.php" afterPath="$PROJECT_DIR$/Additionals/ReindentAndAlignObjOps.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/ReindentColonBlocks.php" afterPath="$PROJECT_DIR$/Core/ReindentColonBlocks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/ReindentComments.php" afterPath="$PROJECT_DIR$/Core/ReindentComments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/ReindentEqual.php" afterPath="$PROJECT_DIR$/Core/ReindentEqual.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/ReindentObjOps.php" afterPath="$PROJECT_DIR$/Core/ReindentObjOps.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ReindentSwitchBlocks.php" afterPath="$PROJECT_DIR$/Additionals/ReindentSwitchBlocks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/RemoveComments.php" afterPath="$PROJECT_DIR$/Core/RemoveComments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/RemoveIncludeParentheses.php" afterPath="$PROJECT_DIR$/Additionals/RemoveIncludeParentheses.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/RemoveSemicolonAfterCurly.php" afterPath="$PROJECT_DIR$/Additionals/RemoveSemicolonAfterCurly.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/RemoveUseLeadingSlash.php" afterPath="$PROJECT_DIR$/Additionals/RemoveUseLeadingSlash.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ReplaceBooleanAndOr.php" afterPath="$PROJECT_DIR$/Additionals/ReplaceBooleanAndOr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ReplaceIsNull.php" afterPath="$PROJECT_DIR$/Additionals/ReplaceIsNull.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/ResizeSpaces.php" afterPath="$PROJECT_DIR$/Core/ResizeSpaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/RestoreComments.php" afterPath="$PROJECT_DIR$/Additionals/RestoreComments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ReturnNull.php" afterPath="$PROJECT_DIR$/Additionals/ReturnNull.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/SandboxedPass.php" afterPath="$PROJECT_DIR$/Core/SandboxedPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/SettersAndGettersPass.php" afterPath="$PROJECT_DIR$/Core/SettersAndGettersPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/ShortArray.php" afterPath="$PROJECT_DIR$/Additionals/ShortArray.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/SingleCodeFormatter.php" afterPath="$PROJECT_DIR$/Core/SingleCodeFormatter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/SmartLnAfterCurlyOpen.php" afterPath="$PROJECT_DIR$/Additionals/SmartLnAfterCurlyOpen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/SortUseNameSpace.php" afterPath="$PROJECT_DIR$/Additionals/SortUseNameSpace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/SpaceAroundControlStructures.php" afterPath="$PROJECT_DIR$/Additionals/SpaceAroundControlStructures.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/SpaceAroundExclamationMark.php" afterPath="$PROJECT_DIR$/Additionals/SpaceAroundExclamationMark.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/SpaceBetweenMethods.php" afterPath="$PROJECT_DIR$/Additionals/SpaceBetweenMethods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/SplitCurlyCloseAndTokens.php" afterPath="$PROJECT_DIR$/Core/SplitCurlyCloseAndTokens.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/SplitElseIf.php" afterPath="$PROJECT_DIR$/Additionals/SplitElseIf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/StrictBehavior.php" afterPath="$PROJECT_DIR$/Additionals/StrictBehavior.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/StrictComparison.php" afterPath="$PROJECT_DIR$/Additionals/StrictComparison.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/StripExtraCommaInArray.php" afterPath="$PROJECT_DIR$/Additionals/StripExtraCommaInArray.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/StripExtraCommaInList.php" afterPath="$PROJECT_DIR$/Core/StripExtraCommaInList.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/StripNewlineAfterClassOpen.php" afterPath="$PROJECT_DIR$/Additionals/StripNewlineAfterClassOpen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/StripNewlineAfterCurlyOpen.php" afterPath="$PROJECT_DIR$/Additionals/StripNewlineAfterCurlyOpen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/StripNewlineWithinClassBody.php" afterPath="$PROJECT_DIR$/Additionals/StripNewlineWithinClassBody.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/StripSpaceWithinControlStructures.php" afterPath="$PROJECT_DIR$/Additionals/StripSpaceWithinControlStructures.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/StripSpaces.php" afterPath="$PROJECT_DIR$/Additionals/StripSpaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/SurrogateToken.php" afterPath="$PROJECT_DIR$/Core/SurrogateToken.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/TightConcat.php" afterPath="$PROJECT_DIR$/Additionals/TightConcat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/Tree.php" afterPath="$PROJECT_DIR$/Core/Tree.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/TrimSpaceBeforeSemicolon.php" afterPath="$PROJECT_DIR$/Additionals/TrimSpaceBeforeSemicolon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/TwoCommandsInSameLine.php" afterPath="$PROJECT_DIR$/Core/TwoCommandsInSameLine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/UpgradeToPreg.php" afterPath="$PROJECT_DIR$/Additionals/UpgradeToPreg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/WordWrap.php" afterPath="$PROJECT_DIR$/Additionals/WordWrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/WrongConstructorName.php" afterPath="$PROJECT_DIR$/Additionals/WrongConstructorName.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Additionals/YodaComparisons.php" afterPath="$PROJECT_DIR$/Additionals/YodaComparisons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli-core.php" afterPath="$PROJECT_DIR$/cli-core.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli-external.php" afterPath="$PROJECT_DIR$/cli-external.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/constants.php" afterPath="$PROJECT_DIR$/Core/constants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fmt-external.php" afterPath="$PROJECT_DIR$/fmt-external.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fmt.php" afterPath="$PROJECT_DIR$/fmt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/formatter.php" afterPath="$PROJECT_DIR$/formatter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers.php" afterPath="$PROJECT_DIR$/helpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/refactor.php" afterPath="$PROJECT_DIR$/refactor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/selfupdate.php" afterPath="$PROJECT_DIR$/selfupdate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
+    </list>
+    <ignored path="fmt.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="fmt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".phpfmt.ini" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.phpfmt.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="width" value="1360" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fmt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fmt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fmt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88b722bb-be2f-4dc6-8970-cd77c4495588" name="Default" comment="" />
+      <created>1487901754522</created>
+      <option name="number" value="Default" />
+      <updated>1487901754522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1360" height="768" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3529412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_static.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6826923">
+          <caret line="337" column="21" selection-start-line="337" selection-start-column="21" selection-end-line="337" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.phpfmt.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

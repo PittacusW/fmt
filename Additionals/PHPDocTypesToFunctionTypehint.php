@@ -1,4 +1,6 @@
 <?php
+namespace contal\fmt;
+
 class PHPDocTypesToFunctionTypehint extends AdditionalPass {
 	public function candidate($source, $foundTokens) {
 		if (isset($foundTokens[T_FUNCTION])) {

@@ -1,4 +1,6 @@
 <?php
+namespace contal\fmt;
+
 # Copyright (c) 2015, phpfmt and its authors
 # All rights reserved.
 #

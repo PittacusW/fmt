@@ -28,7 +28,7 @@ namespace Extern {
 	require 'vendor/symfony/console/Helper/ProgressBar.php';
 }
 
-namespace {
+namespace contal\fmt{
 	$concurrent = function_exists('pcntl_fork');
 	if ($concurrent) {
 		require 'vendor/dericofilho/csp/csp.php';
