@@ -10,13 +10,12 @@
   ],
   "require":{
     "php": ">=5.6.0",
-    "ext-tokenizer": "*",
-    "symfony/console": "*"
+    "ext-tokenizer": "*"
   },
   "require-dev": {
     "phpunit/php-code-coverage": "2.0.*",
     "ext-xdebug": "*",
-    "satooshi/php-coveralls": "dev-master"
+    "symfony/console": "3.*"
   },
   "autoload": {
     "psr-4": {
