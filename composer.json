@@ -20,7 +20,8 @@
   "autoload": {
     "psr-4": {
       "App\\": "app/",
-      "contal\\fmt\\" : "/"
+      "contal\\fmt\\" : "/",
+	  "files": [ "formatter.php" ]
     }
   }
 }
